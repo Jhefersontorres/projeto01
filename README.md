@@ -27,7 +27,7 @@ Desenvolvido landigpage, utilizando os conceitos e ensimamentos adiqueridos no c
 $ git clone
 
 # Entre na pasta do projeto FrontEnd
-$ cd frontend
+$ cd projeto01
 
 ```
 
