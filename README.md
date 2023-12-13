@@ -5,12 +5,14 @@
 </div>
 
 
-<div align="center">
-    <img src="frontend/public/apresentação.svg">
-</div>
+
 
 ## 💻 Projeto
-Desenvolvido landigpage, utilizando os conceitos e ensimamentos adiqueridos no conteudo de introdução ao HTML e CSS
+Desenvolvido landigpage, utilizando os conceitos e ensimamentos adiqueridos no conteudo de introdução ao HTML e CSS.
+
+<div align="center">
+    <img src="public/Projeto 01.png">
+</div>
 
 ## ⛏ Tecnologias
 - [HTML](https://docs.adonisjs.com/guides/introduction)
