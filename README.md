@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> ROCKETSEAT FORMAÇÃO EXPLORER </h1>
+  <h1> <img src="public/favicon.ico"> ROCKETSEAT FORMAÇÃO EXPLORER </h1>
   <img src="public/1701701034448.png">
   <h3> EXPLORER PROJETO 01</h3>
 </div>
