@@ -1,6 +1,6 @@
 <div align="center">
-  # ROCKETSEAT FORMAÇÃO EXPLORER 
-  <h1> EXPLORER PROJETO 01</h1>
+  <h1> ROCKETSEAT FORMAÇÃO EXPLORER </h1>
+  <h3> EXPLORER PROJETO 01</h3>
 </div>
 
 
